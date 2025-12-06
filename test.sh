@@ -1,3 +1,0 @@
-   hi
-   Welcome to second session in second module of devops
-   .....
